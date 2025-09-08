@@ -3,7 +3,7 @@ How to Securely Create and Login Your Syw Account on - Syw.accountonline.com Log
 
 Accessing your Citibank account online has never been more convenient. With Syw.accountonline.com Login, you can securely manage your finances from the comfort of your own home. Citibank's online platform provides a user-friendly interface, allowing you to easily navigate and perform various banking tasks.
 
-.. image:: get.png
+.. image:: get1.png
    :alt: Syw.accountonline.com Login
    :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
 
